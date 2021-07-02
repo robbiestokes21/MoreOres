@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Adds more Ore block, weapons, items and recipes.",
+    "name": "More Ore",
+    "uuid": "27c9d518-7cd2-33f8-9160-ec1ed2b5ac89",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Adds more Ore block, weapons, items and recipes.",
+      "type": "data",
+      "uuid": "97960075-1abf-32b0-b523-fb545df63d04",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "99c45576-fbdc-3c0c-994d-7844f6ec396f",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "robbiestokes"
+    ],
+    "url": "https://dstokesncstudio.com/mods/minecraft/1.16.0/download"
+  }
+}

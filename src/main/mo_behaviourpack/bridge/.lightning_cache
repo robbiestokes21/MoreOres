@@ -1,0 +1,328 @@
+{
+	"block": {
+		"BP/blocks/tin_block.json": {
+			"identifiers": [
+				"mo:tin_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/tin_ore.json": {
+			"identifiers": [
+				"mo:tin_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/titanium_block.json": {
+			"identifiers": [
+				"mo:titanium_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/titanium_ore.json": {
+			"identifiers": [
+				"mo:titanium_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:event_normal_player",
+				"mo:titanium_pickaxe",
+				"mo:titanium_axe",
+				"mo:titanium_sword",
+				"mo:titanium_shovel",
+				"mo:titanium_hoe",
+				"mo:tin_pickaxe",
+				"mo:tin_axe",
+				"mo:tin_sword",
+				"mo:tin_shovel",
+				"mo:tin_hoe",
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"feature_rule": {
+		"BP/feature_rules/mo_tin_ore_ore_feature_rule.json": {
+			"identifiers": [
+				"mo_tin_ore_ore_feature_rule"
+			]
+		},
+		"BP/feature_rules/mo_titanium_ore_ore_feature_rule.json": {
+			"identifiers": [
+				"mo_titanium_ore_ore_feature_rule"
+			]
+		}
+	},
+	"feature": {
+		"BP/features/mo_tin_ore_ore_feature.json": {
+			"identifiers": [
+				"mo:mo_tin_ore_ore_feature"
+			]
+		},
+		"BP/features/mo_titanium_ore_ore_feature.json": {
+			"identifiers": [
+				"mo:mo_titanium_ore_ore_feature"
+			]
+		}
+	},
+	"item": {
+		"BP/items/melted_titanium.json": {
+			"identifiers": [
+				"mo:melted_titanium"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_axe.json": {
+			"identifiers": [
+				"mo:tin_axe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_hoe.json": {
+			"identifiers": [
+				"mo:tin_hoe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_ingot.json": {
+			"identifiers": [
+				"mo:tin_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_pickaxe.json": {
+			"identifiers": [
+				"mo:tin_pickaxe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_shovel.json": {
+			"identifiers": [
+				"mo:tin_shovel"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_sword.json": {
+			"identifiers": [
+				"mo:tin_sword"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_axe.json": {
+			"identifiers": [
+				"mo:titanium_axe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_gem.json": {
+			"identifiers": [
+				"mo:titanium_gem"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_hoe.json": {
+			"identifiers": [
+				"mo:titanium_hoe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_ingot.json": {
+			"identifiers": [
+				"mo:titanium_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_pickaxe.json": {
+			"identifiers": [
+				"mo:titanium_pickaxe"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_shards.json": {
+			"identifiers": [
+				"mo:titanium_shards"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_shovel.json": {
+			"identifiers": [
+				"mo:titanium_shovel"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_sword.json": {
+			"identifiers": [
+				"mo:titanium_sword"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_armor_leggings.json": {
+			"identifiers": [
+				"bridge:titanium_armor_leggings"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_armor_boots.json": {
+			"identifiers": [
+				"bridge:titanium_armor_boots"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_armor_helmet.json": {
+			"identifiers": [
+				"bridge:titanium_armor_helmet"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_armor_chestplate.json": {
+			"identifiers": [
+				"bridge:titanium_armor_chestplate"
+			],
+			"custom_commands": []
+		}
+	},
+	"recipe": {
+		"BP/recipes/melted_titanium_recipe.json": {
+			"tags": [
+				"furnace"
+			]
+		},
+		"BP/recipes/tin_axe_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/tin_block_ore_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/tin_hoe_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/tin_ore_block_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/tin_ore_smelting.json": {
+			"tags": [
+				"furnace"
+			]
+		},
+		"BP/recipes/tin_pickaxe_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/tin_shovel_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/tin_sword_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_axe_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_block_ore_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_gem_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_hoe_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_melted_ingots.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_ore_block_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_ore_smelting.json": {
+			"tags": [
+				"furnace"
+			]
+		},
+		"BP/recipes/titanium_pickaxe_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_shard_recipe.json": {
+			"tags": [
+				"stonecutter"
+			]
+		},
+		"BP/recipes/titanium_shovel_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/titanium_sword_recipe.json": {
+			"tags": [
+				"crafting_table"
+			]
+		}
+	},
+	"attachable": {
+		"RP/attachables/titanium_armor_chestplate.json": {
+			"texture_references": [
+				"default",
+				"enchanted"
+			],
+			"material_references": [
+				"default",
+				"enchanted"
+			],
+			"geometry_references": [
+				"default"
+			]
+		}
+	}
+}

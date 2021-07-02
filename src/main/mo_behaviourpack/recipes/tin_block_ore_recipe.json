@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "mo:tin_block_ore_recipe"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "mo:tin_block"
+      }
+    ],
+    "result": {
+      "item": "mo:tin_ingot",
+      "count": 9
+    }
+  }
+}

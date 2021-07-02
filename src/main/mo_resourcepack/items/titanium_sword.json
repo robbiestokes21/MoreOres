@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mo:titanium_sword",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "titanium_sword",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "mo:tool_table"
+		},
+		"tags": [
+			"tool_crafting"
+		],
+		"pattern": [
+			"121",
+			"101",
+			"111"
+		],
+		"key": {
+			"0": {
+				"item": "minecraft:crafting_table"
+			},
+			"1": {
+				"item": "minecraft:planks"
+			},
+			"2": {
+				"item": "minecraft:redstone"
+			}
+		},
+		"result": {
+			"item": "mo:tool_table"
+		}
+	}
+}

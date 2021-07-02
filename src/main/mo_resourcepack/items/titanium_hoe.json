@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mo:titanium_hoe",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "titanium_hoe",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

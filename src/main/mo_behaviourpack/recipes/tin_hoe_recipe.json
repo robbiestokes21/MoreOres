@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mo:tin_hoe_recipe"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "01",
+      " 3",
+      " 5"
+    ],
+    "key": {
+      "0": {
+        "item": "mo:tin_block"
+      },
+      "1": {
+        "item": "mo:tin_block"
+      },
+      "3": {
+        "item": "minecraft:stick"
+      },
+      "5": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "mo:tin_hoe",
+      "count": 1
+    }
+  }
+}

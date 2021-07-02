@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mo:titanium_shovel",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "titanium_shovel",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

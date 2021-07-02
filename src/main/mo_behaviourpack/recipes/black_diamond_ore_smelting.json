@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "mo:black_diamond_ore_smelting"
+        },
+        "groups": [
+            "mo"
+        ],
+        "tags": [
+            "furnace"
+        ],
+        "input": {
+            "item": "mo:black_d_ore"
+        },
+        "output": {
+            "item": "mo:black_diamond_ingot"
+        }
+    }
+}

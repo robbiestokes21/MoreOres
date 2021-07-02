@@ -1,0 +1,17 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "mo:mo_titanium_ore_ore_feature"
+    },
+    "count": 5,
+    "replace_rules": [
+      {
+        "places_block": "mo:titanium_ore",
+        "may_replace":[
+          "minecraft:stone"
+        ]
+      }
+    ]
+  }
+}

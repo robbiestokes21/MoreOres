@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mo:melted_titanium_recipe"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "mo:titanium_shards"
+    },
+    "output": {
+      "item": "mo:melted_titanium"
+    }
+  }
+}

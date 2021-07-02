@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mo:tin_ore_smelting"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "mo:tin_ore"
+    },
+    "output": {
+      "item": "mo:tin_ingot"
+    }
+  }
+}

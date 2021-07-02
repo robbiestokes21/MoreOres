@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "armor",
+        "chestplate",
+        "helment",
+        "netherite",
+        "titanium",
+        "titaniumblock"
+    ],
+    "editor.mouseWheelZoom": true,
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "main"
+    ]
+}

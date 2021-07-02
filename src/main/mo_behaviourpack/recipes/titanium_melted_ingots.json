@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mo:titanium_melted_ingots"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "tool_crafting"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "mo:titanium_shards"
+      },
+      "1": {
+        "item": "mo:titanium_shards"
+      },
+      "2": {
+        "item": "mo:titanium_shards"
+      },
+      "3": {
+        "item": "mo:melted_titanium"
+      },
+      "4": {
+        "item": "mo:melted_titanium"
+      },
+      "5": {
+        "item": "mo:melted_titanium"
+      },
+      "6": {
+        "item": "mo:titanium_shards"
+      },
+      "7": {
+        "item": "mo:titanium_shards"
+      },
+      "8": {
+        "item": "mo:titanium_shards"
+      }
+    },
+    "result": {
+      "item": "mo:titanium_ingot",
+      "count": 1
+    }
+  }
+}

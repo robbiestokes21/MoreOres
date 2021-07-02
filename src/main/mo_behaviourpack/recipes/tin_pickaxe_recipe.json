@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mo:tin_pickaxe_recipe"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      " 4 ",
+      " 7 "
+    ],
+    "key": {
+      "0": {
+        "item": "mo:tin_ingot"
+      },
+      "1": {
+        "item": "mo:tin_ingot"
+      },
+      "2": {
+        "item": "mo:tin_ingot"
+      },
+      "4": {
+        "item": "minecraft:stick"
+      },
+      "7": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "mo:tin_pickaxe",
+      "count": 1
+    }
+  }
+}

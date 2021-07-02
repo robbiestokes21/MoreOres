@@ -1,0 +1,34 @@
+{
+	"file_path": "C:\\Users\\robbiestokes\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\More Ores\\attachables\\titanium_armor_leggings.player.json",
+	"file_type": "attachable",
+	"format_version": 0,
+	"cache_content": {
+		"format_version": "1.10.0",
+		"minecraft:attachable": {
+			"description": {
+				"identifier": "bridge:titanium_armor_leggings.player",
+				"item": {
+					"bridge:titanium_armor_leggings": "query.owner_identifier == 'minecraft:player'"
+				},
+				"materials": {
+					"default": "armor",
+					"enchanted": "armor_enchanted"
+				},
+				"textures": {
+					"default": "textures/models/armor/titanium_armor_2",
+					"enchanted": "textures/misc/enchanted_item_glint"
+				},
+				"geometry": {
+					"default": "geometry.player.armor.leggings"
+				},
+				"scripts": {
+					"parent_setup": "variable.leg_layer_visible = 0.0;"
+				},
+				"render_controllers": [
+					"controller.render.armor"
+				]
+			}
+		}
+	},
+	"file_uuid": "2ec07b06_a59d_4e94_adde_cc4ec36d5d79"
+}

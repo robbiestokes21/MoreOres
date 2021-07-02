@@ -1,0 +1,67 @@
+{
+	"RP/attachables/titanium_armor_chesplate.player.json": {
+		"data": {}
+	},
+	"RP/attachables/titanium_armor_chestplate.json": {
+		"data": {}
+	},
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"443ebd61_00e9_43fb_b02f_32e97f7337c4": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"b0cbfdab_6685_4b2b_a892_5647a30f5610": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"52df9ffd_9831_41da_ba84_f49c768a3a0d": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"fd7f6a99_a9bb_4b98_851e_47bf571348eb": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/items/titanium_armor_leggings.json": {
+		"data": {}
+	},
+	"BP/items/titanium_armor_boots.json": {
+		"data": {}
+	},
+	"BP/items/titanium_armor_helmet.json": {
+		"data": {}
+	},
+	"BP/items/titanium_armor_chestplate.json": {
+		"data": {}
+	}
+}

@@ -1,0 +1,93 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+	"mo:tool_part": {
+		"textures": {
+			"up": "mo_tool_top",
+			"down": "mo_tool_bottom",
+			"north": "mo_tool_front_north",
+			"south": "mo_tool_front_south",
+			"east": "mo_tool_side_east",
+			"west": "mo_tool_side_west"
+		},
+		"sound": "brick"
+	},
+  "mo:titanium_ore": {
+    "textures": {
+      "up": "mo_titanium_ore_up",
+      "down": "mo_titanium_ore_down",
+      "south": "mo_titanium_ore_south",
+      "north": "mo_titanium_ore_north",
+      "west": "mo_titanium_ore_west",
+      "east": "mo_titanium_ore_east"
+    },
+    "sound": "stone"
+  },
+  "mo:titanium_block": {
+    "textures": {
+      "up": "mo_titanium_block_up",
+      "down": "mo_titanium_block_down",
+      "south": "mo_titanium_block_south",
+      "north": "mo_titanium_block_north",
+      "west": "mo_titanium_block_west",
+      "east": "mo_titanium_block_east"
+    },
+    "sound": "metal"
+  },
+  "mo:tin_ore": {
+    "textures": {
+      "up": "mo_tin_ore_up",
+      "down": "mo_tin_ore_down",
+      "south": "mo_tin_ore_south",
+      "north": "mo_tin_ore_north",
+      "west": "mo_tin_ore_west",
+      "east": "mo_tin_ore_east"
+    },
+    "sound": "stone"
+  },
+  "mo:tin_block": {
+    "textures": {
+      "up": "mo_tin_block_up",
+      "down": "mo_tin_block_down",
+      "south": "mo_tin_block_south",
+      "north": "mo_tin_block_north",
+      "west": "mo_tin_block_west",
+      "east": "mo_tin_block_east"
+    },
+    "sound": "metal"
+  },
+  "mo:black_d_ore": {
+    "textures": {
+      "up": "mo_black_d_ore_up",
+      "down": "mo_black_d_ore_down",
+      "south": "mo_black_d_ore_south",
+      "north": "mo_black_d_ore_north",
+      "west": "mo_black_d_ore_west",
+      "east": "mo_black_d_ore_east"
+    },
+    "sound": "stone"
+  },
+  "mo:ruby_ore":{
+    "textures":{
+      "up": "mo_ruby_ore_top",
+      "down": "mo_ruby_ore_bottom",
+      "north": "mo_ruby_ore_north",
+      "south": "mo_ruby_ore_south",
+      "west": "mo_ruby_ore_west",
+      "east": "mo_ruby_ore_east"
+    }
+  },
+  "mo:ruby_block":{
+    "textures":{
+      "up": "mo_ruby_block_top",
+      "down": "mo_ruby_block_bottom",
+      "north": "mo_ruby_block_north",
+      "south": "mo_ruby_block_south",
+      "west": "mo_ruby_block_west",
+      "east": "mo_ruby_block_east"
+    }
+  }
+}

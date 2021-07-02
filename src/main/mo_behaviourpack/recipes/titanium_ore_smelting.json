@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "mo:titanium_ore_smelting"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "mo:titanium_ore"
+    },
+    "output": {
+      "item": "mo:titanium_ingot"
+    }
+  }
+}

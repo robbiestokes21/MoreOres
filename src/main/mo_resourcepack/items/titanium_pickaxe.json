@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mo:titanium_pickaxe",
+      "category": "equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:creative_category": "itemGroup.name.pickaxe",
+      "minecraft:icon": "titanium_pickaxe",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

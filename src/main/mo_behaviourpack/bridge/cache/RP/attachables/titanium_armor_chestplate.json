@@ -1,0 +1,31 @@
+{
+	"file_path": "C:\\Users\\robbiestokes\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\More Ores\\attachables\\titanium_armor_chestplate.json",
+	"file_type": "attachable",
+	"format_version": 0,
+	"cache_content": {
+		"format_version": "1.8.0",
+		"minecraft:attachable": {
+			"description": {
+				"identifier": "bridge:titanium_armor_helmet",
+				"materials": {
+					"default": "armor",
+					"enchanted": "armor_enchanted"
+				},
+				"textures": {
+					"default": "textures/models/armor/titanium_armor_1",
+					"enchanted": "textures/misc/enchanted_item_glint"
+				},
+				"geometry": {
+					"default": "geometry.humanoid.armor.helmet"
+				},
+				"scripts": {
+					"parent_setup": "variable.helmet_layer_visible = 0.0;"
+				},
+				"render_controllers": [
+					"controller.render.armor"
+				]
+			}
+		}
+	},
+	"file_uuid": "1592a2c3_9761_4d16_a9b9_1e42574f640d"
+}

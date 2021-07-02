@@ -1,0 +1,39 @@
+{
+	"file_path": "C:\\Users\\robbiestokes\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\More Ores\\items\\titanium_armor_leggings.json",
+	"file_type": "item",
+	"format_version": 0,
+	"cache_content": {
+		"format_version": "1.16.100",
+		"minecraft:item": {
+			"description": {
+				"identifier": "bridge:titanium_armor_leggings",
+				"category": "equipment"
+			},
+			"components": {
+				"minecraft:max_stack_size": 1,
+				"minecraft:enchantable": {
+					"value": 9,
+					"slot": "armor_legs"
+				},
+				"minecraft:durability": {
+					"max_durability": 125,
+					"damage_chance": {
+						"min": 60,
+						"max": 100
+					}
+				},
+				"minecraft:icon": {
+					"texture": "bridge_titanium_armor_leggings"
+				},
+				"minecraft:render_offsets": "leggings",
+				"minecraft:armor": {
+					"protection": 5
+				},
+				"minecraft:wearable": {
+					"slot": "slot.armor.legs"
+				}
+			}
+		}
+	},
+	"file_uuid": "443ebd61_00e9_43fb_b02f_32e97f7337c4"
+}

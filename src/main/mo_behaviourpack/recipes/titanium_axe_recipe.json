@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mo:titanium_axe_recipe"
+    },
+    "groups": [
+      "mo"
+    ],
+    "tags": [
+      "tool_crafting"
+    ],
+    "pattern": [
+      "01 ",
+      "23 ",
+      " 5 "
+    ],
+    "key": {
+      "0": {
+        "item": "mo:titanium_ingot"
+      },
+      "1": {
+        "item": "mo:titanium_ingot"
+      },
+      "2": {
+        "item": "mo:titanium_ingot"
+      },
+      "3": {
+        "item": "minecraft:stick"
+      },
+      "5": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "mo:titanium_axe",
+      "count": 1
+    }
+  }
+}

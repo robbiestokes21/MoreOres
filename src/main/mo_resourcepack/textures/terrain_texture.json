@@ -1,0 +1,248 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "mo_titanium_ore_up": {
+      "textures": [
+        "textures/blocks/titaniumore"
+      ]
+    },
+    "mo_titanium_ore_down": {
+      "textures": [
+        "textures/blocks/titaniumore"
+      ]
+    },
+    "mo_titanium_ore_south": {
+      "textures": [
+        "textures/blocks/titaniumore"
+      ]
+    },
+    "mo_titanium_ore_north": {
+      "textures": [
+        "textures/blocks/titaniumore"
+      ]
+    },
+    "mo_titanium_ore_west": {
+      "textures": [
+        "textures/blocks/titaniumore"
+      ]
+    },
+    "mo_titanium_ore_east": {
+      "textures": [
+        "textures/blocks/titaniumore"
+      ]
+    },
+    "mo_titanium_block_up": {
+      "textures": [
+        "textures/blocks/titaniumblock"
+      ]
+    },
+    "mo_titanium_block_down": {
+      "textures": [
+        "textures/blocks/titaniumblock"
+      ]
+    },
+    "mo_titanium_block_south": {
+      "textures": [
+        "textures/blocks/titaniumblock"
+      ]
+    },
+    "mo_titanium_block_north": {
+      "textures": [
+        "textures/blocks/titaniumblock"
+      ]
+    },
+    "mo_titanium_block_west": {
+      "textures": [
+        "textures/blocks/titaniumblock"
+      ]
+    },
+    "mo_titanium_block_east": {
+      "textures": [
+        "textures/blocks/titaniumblock"
+      ]
+    },
+    "mo_tin_ore_up": {
+      "textures": [
+        "textures/blocks/tin"
+      ]
+    },
+    "mo_tin_ore_down": {
+      "textures": [
+        "textures/blocks/tin"
+      ]
+    },
+    "mo_tin_ore_south": {
+      "textures": [
+        "textures/blocks/tin"
+      ]
+    },
+    "mo_tin_ore_north": {
+      "textures": [
+        "textures/blocks/tin"
+      ]
+    },
+    "mo_tin_ore_west": {
+      "textures": [
+        "textures/blocks/tin"
+      ]
+    },
+    "mo_tin_ore_east": {
+      "textures": [
+        "textures/blocks/tin"
+      ]
+    },
+    "mo_tin_block_up": {
+      "textures": [
+        "textures/blocks/tin_ore_block"
+      ]
+    },
+    "mo_tin_block_down": {
+      "textures": [
+        "textures/blocks/tin_ore_block"
+      ]
+    },
+    "mo_tin_block_south": {
+      "textures": [
+        "textures/blocks/tin_ore_block"
+      ]
+    },
+    "mo_tin_block_north": {
+      "textures": [
+        "textures/blocks/tin_ore_block"
+      ]
+    },
+    "mo_tin_block_west": {
+      "textures": [
+        "textures/blocks/tin_ore_block"
+      ]
+    },
+    "mo_tin_block_east": {
+      "textures": [
+        "textures/blocks/tin_ore_block"
+      ]
+    },
+    "mo_black_d_ore_up": {
+      "textures": [
+        "textures/blocks/black_diamond"
+      ]
+    },
+    "mo_black_d_ore_down": {
+      "textures": [
+        "textures/blocks/black_diamond"
+      ]
+    },
+    "mo_black_d_ore_south": {
+      "textures": [
+        "textures/blocks/black_diamond"
+      ]
+    },
+    "mo_black_d_ore_north": {
+      "textures": [
+        "textures/blocks/black_diamond"
+      ]
+    },
+    "mo_black_d_ore_west": {
+      "textures": [
+        "textures/blocks/black_diamond"
+      ]
+    },
+    "mo_black_d_ore_east": {
+      "textures": [
+        "textures/blocks/black_diamond"
+      ]
+    },
+    "mo_tool_top":{
+      "textures":[
+        "textures/blocks/tool_part_top"
+      ]
+    },
+    "mo_tool_bottom":{
+      "textures":[
+        "textures/blocks/tool_part_top"
+      ]
+    },
+    "mo_tool_front_north":{
+      "textures":[
+        "textures/blocks/tool_part_north"
+      ]
+    },
+    "mo_tool_front_south":{
+      "textures":[
+        "textures/blocks/tool_part_south"
+      ]
+    },
+    "mo_tool_side_east":{
+      "textures":[
+        "textures/blocks/tool_part_east"
+      ]
+    },
+    "mo_tool_side_west":{
+      "textures":[
+        "textures/blocks/tool_part_west"
+      ]
+    },
+    "mo_ruby_ore_top":{
+      "textures":[
+        "textures/blocks/ruby_ore"
+      ]
+    },
+    "mo_ruby_ore_bottom":{
+      "textures":[
+        "textures/blocks/ruby_ore"
+      ]
+    },
+    "mo_ruby_ore_north":{
+      "textures":[
+        "textures/blocks/ruby_ore"
+      ]
+    },
+    "mo_ruby_ore_south":{
+      "textures":[
+        "textures/blocks/ruby_ore"
+      ]
+    },
+    "mo_ruby_ore_west":{
+      "textures":[
+        "textures/blocks/ruby_ore"
+      ]
+    },
+    "mo_ruby_ore_east":{
+      "textures":[
+        "textures/blocks/ruby_ore"
+      ]
+    },
+    "mo_ruby_block_top":{
+      "textures":[
+        "textures/blocks/ruby_block"
+      ]
+    },
+    "mo_ruby_block_bottom":{
+      "textures":[
+        "textures/blocks/ruby_block"
+      ]
+    },
+    "mo_ruby_block_north":{
+      "textures":[
+        "textures/blocks/ruby_block"
+      ]
+    },
+    "mo_ruby_block_south":{
+      "textures":[
+        "textures/blocks/ruby_block"
+      ]
+    },
+    "mo_ruby_block_west":{
+      "textures":[
+        "textures/blocks/ruby_block"
+      ]
+    },
+    "mo_ruby_block_east":{
+      "textures":[
+        "textures/blocks/ruby_block"
+      ]
+    }
+  }
+}

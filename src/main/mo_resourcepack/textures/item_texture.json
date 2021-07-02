@@ -1,0 +1,102 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "titanium_axe": {
+      "textures": "textures/items/titanium_axe"
+    },
+    "melted_titanium": {
+      "textures": "textures/items/meltedtitanium"
+    },
+    "titanium_gem": {
+      "textures": "textures/items/titanium_gem"
+    },
+    "tin_hoe": {
+      "textures": "textures/items/tin_hoe"
+    },
+    "tin_ingot": {
+      "textures": "textures/items/tin_ingot"
+    },
+    "tin_pickaxe": {
+      "textures": "textures/items/tin_pickaxe"
+    },
+    "tin_sword": {
+      "textures": "textures/items/tin_sword"
+    },
+    "titanium_shards": {
+      "textures": "textures/items/titaium_shards"
+    },
+    "titanium_pickaxe": {
+      "textures": "textures/items/titanium_pickaxe"
+    },
+    "titanium_sword": {
+      "textures": "textures/items/titanium_sword"
+    },
+    "titanium_hoe": {
+      "textures": "textures/items/titanium_hoe"
+    },
+    "titanium_ingot": {
+      "textures": "textures/items/titanium_ingot"
+    },
+    "tin_axe": {
+      "textures": "textures/items/tin_axe"
+    },
+    "titanium_shovel": {
+      "textures": "textures/items/titanium_shovel"
+    },
+    "tin_shovel": {
+      "textures": "textures/items/tin_shovel"
+    },
+    "titanium_armor_boots":{
+      "textures": "textures/items/titanium_armor_boots"
+    },
+    "titanium_armor_chestplate":{
+      "textures": "textures/items/titanium_armor_chestplate"
+    },
+    "titanium_armor_helmet":{
+      "textures": "textures/items/titanium_armor_helmet"
+    },
+    "titanium_armor_leggings":{
+      "textures": "textures/items/titanium_armor_leggings"
+    },
+    "black_diamond_ingot":{
+      "textures": "textures/items/black_diamond_ingot"
+    },
+    "black_diamond_pickaxe":{
+      "textures": "textures/items/black_diamond_pickaxe"
+    },
+    "black_diamond_axe":{
+      "textures": "textures/items/black_diamond_axe"
+    },
+    "black_diamond_hoe":{
+      "textures": "textures/items/black_diamond_hoe"
+    },
+    "black_diamond_shovel":{
+      "textures": "textures/items/black_diamond_shovel"
+    },
+    "black_diamond_sword":{
+      "textures": "textures/items/black_diamond_sword"
+    },
+    "wood_stick":{
+      "textures": "textures/items/mo_pickaxes/wood/wood_stick"
+    },
+    "wood_crook":{
+      "textures": "textures/items/wood_crook"
+    },
+    "wood_stone_pickaxe":{
+      "textures": "textures/items/mo_pickaxes/wood/pickaxe_heads/wood_stone_pickaxe"
+    },
+    "wood_iron_pickaxe":{
+      "textures": "textures/items/mo_pickaxes/wood/pickaxe_heads/wood_iron_pickaxe"
+    },
+    "wood_gold_pickaxe":{
+      "textures": "textures/items/mo_pickaxes/wood/pickaxe_heads/wood_gold_pickaxe"
+    },
+    "wood_diamond_pickaxe":{
+      "textures": "textures/items/mo_pickaxes/wood/pickaxe_heads/wood_diamond_pickaxe"
+    },
+    "wood_netherite_pickaxe":{
+      "textures": "textures/items/mo_pickaxes/wood/pickaxe_heads/wood_netherite_pickaxe"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "mo:custom_diamond_pickaxe"
+        },
+        "groups": [
+            "mo"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "012",
+            " 4 ",
+            " 7 "
+        ],
+        "key": {
+            "0": {
+            "item": "mo:black_diamond_ingot"
+            },
+            "1": {
+            "item": "mo:black_diamond_ingot"
+            },
+            "2": {
+            "item": "mo:black_diamond_ingot"
+            },
+            "4": {
+            "item": "minecraft:stick"
+            },
+            "7": {
+            "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "minecraft:diamond_pickaxe",
+            "count": 1
+        }
+    }
+}

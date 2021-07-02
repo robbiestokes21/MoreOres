@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.200",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mo:tool_table",
+			"register_to_creative_menu": true
+		},
+		"components": {
+			"minecraft:destroy_time": 2.2,
+			"minecraft:friction": 0.6,
+			"minecraft:explosion_resistance": 0.5,
+			"minecraft:crafting_table": {
+				"custom_description": "Tool Table",
+				"grid_size": 3,
+				"crafting_tags": [
+					"tool_crafting"
+				]
+			},
+			"tag:wood": {}
+		},
+		"events": {}
+	}
+}
