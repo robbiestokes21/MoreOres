@@ -3,7 +3,7 @@
 	"minecraft:item": {
 		"description": {
 			"identifier": "mo:titanium_armor_helmet",
-			"category": "equipment"
+			"category": "Equipment"
 		},
 		"components": {
 			"minecraft:max_stack_size": 1,
@@ -22,6 +22,9 @@
 				"texture": "titanium_armor_helmet"
 			},
 			"minecraft:render_offsets": "helmets",
+			"minecraft:display_name": {
+				"value": "Titanium Helmet"
+			},
 			"minecraft:armor": {
 				"protection": 2
 			},

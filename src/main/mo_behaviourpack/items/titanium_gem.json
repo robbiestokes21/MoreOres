@@ -4,7 +4,8 @@
     "description": {
       "identifier": "mo:titanium_gem",
       "register_to_creative_menu": true,
-      "is_experimental": false
+      "is_experimental": false,
+      "category": "Items"
     },
     "components": {
       "minecraft:hand_equipped": false,

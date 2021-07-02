@@ -3,7 +3,7 @@
 	"minecraft:item": {
 		"description": {
 			"identifier": "mo:titanium_armor_leggings",
-			"category": "equipment"
+			"category": "Equipment"
 		},
 		"components": {
 			"minecraft:max_stack_size": 1,
@@ -22,6 +22,9 @@
 				"texture": "titanium_armor_leggings"
 			},
 			"minecraft:render_offsets": "leggings",
+			"minecraft:display_name": {
+				"value": "Titanium Leggings"
+			},
 			"minecraft:armor": {
 				"protection": 5
 			},

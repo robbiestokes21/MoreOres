@@ -9,7 +9,9 @@
       {
         "places_block": "mo:titanium_ore",
         "may_replace":[
-          "minecraft:stone"
+          "minecraft:stone",
+          "minecraft:gravel",
+          "minecraft:dirt"
         ]
       }
     ]

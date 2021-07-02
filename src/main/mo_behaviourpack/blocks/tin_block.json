@@ -3,7 +3,8 @@
   "minecraft:block": {
     "description": {
       "identifier": "mo:tin_block",
-      "is_experimental": false
+      "is_experimental": false,
+      "register_to_creative_menu": true
     },
     "components": {
       "minecraft:block_light_emission": 0,
@@ -13,7 +14,8 @@
       "minecraft:flammable": {
         "flame_odds": 0,
         "burn_odds": 0
-      }
+      },
+      "tag:stone":{}
     }
   }
 }

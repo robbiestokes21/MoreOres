@@ -4,12 +4,14 @@
     "description": {
       "identifier": "mo:mo_black_d_ore_ore_feature"
     },
-    "count": 10,
+    "count": 8,
     "replace_rules": [
       {
         "places_block": "mo:black_d_ore",
         "may_replace":[
-          "minecraft:stone"
+          "minecraft:stone",
+          "minecraft:gravel",
+          "minecraft:dirt"
         ]
       }
     ]

@@ -3,7 +3,7 @@
 	"minecraft:item": {
 		"description": {
 			"identifier": "mo:titanium_armor_chestplate",
-			"category": "equipment"
+			"category": "Equipment"
 		},
 		"components": {
 			"minecraft:max_stack_size": 1,
@@ -22,6 +22,9 @@
 				"texture": "titanium_armor_chestplate"
 			},
 			"minecraft:render_offsets": "chestplates",
+			"minecraft:display_name": {
+				"value": "Titanium Chestplate"
+			},
 			"minecraft:armor": {
 				"protection": 6
 			},

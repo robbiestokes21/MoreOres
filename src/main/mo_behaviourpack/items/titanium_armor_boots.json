@@ -3,7 +3,7 @@
 	"minecraft:item": {
 		"description": {
 			"identifier": "mo:titanium_armor_boots",
-			"category": "equipment"
+			"category": "Equipment"
 			
 		},
 		"components": {

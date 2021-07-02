@@ -1,14 +1,22 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.12.0",
   "minecraft:item": {
     "description": {
       "identifier": "mo:melted_titanium",
       "register_to_creative_menu": true,
-      "is_experimental": false
+      "is_experimental": false,
+      "category": "Items"
     },
     "components": {
       "minecraft:max_stack_size": 4,
-      "minecraft:max_damage": 0
+      "minecraft:max_damage": 0,
+      "minecraft:render_offsets": "miscellaneous",
+      "minecraft:icon": {
+        "texture": "melted_titanium"
+      },
+      "minecraft:display_name":{
+        "value": "Melted Titanium"
+      }
     }
   }
 }

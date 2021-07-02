@@ -1,9 +1,9 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.12.0",
   "minecraft:item": {
     "description": {
       "identifier": "mo:titanium_pickaxe",
-      "category": "equipment",
+      "category": "Equipment",
       "register_to_creative_menu": true
     },
     "components": {

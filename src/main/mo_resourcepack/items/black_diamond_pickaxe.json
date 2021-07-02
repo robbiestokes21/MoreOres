@@ -3,7 +3,7 @@
     "minecraft:item": {
         "description": {
             "identifier": "mo:black_diamond_pickaxe",
-            "category": "equipment",
+            "category": "Equipment",
             "register_to_creative_menu": true
         },
         "components": {

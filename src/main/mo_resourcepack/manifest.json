@@ -4,7 +4,7 @@
     "description": "Adds more Ore block, weapons, items and recipes.",
     "name": "More Ore",
     "uuid": "99c45576-fbdc-3c0c-994d-7844f6ec396f",
-    "version": [1, 0, 1],
+    "version": [1, 0, 2],
     "min_engine_version": [1, 17, 0]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": "Adds more Ore block, weapons, items and recipes.",
       "type": "resources",
       "uuid": "2b22c7a4-3631-3079-8707-6a866cfa8fdc",
-      "version": [1, 0, 1]
+      "version": [1, 0, 2]
     }
   ],
   "metadata": {

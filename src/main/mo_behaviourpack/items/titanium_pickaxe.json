@@ -8,7 +8,7 @@
 			"minecraft:max_stack_size": 1,
 			"minecraft:hand_equipped": true,
 			"minecraft:durability": {
-				"max_durability": 155,
+				"max_durability": 220,
 				"damage_chance": {
 					"min": 60,
 					"max": 100
@@ -51,6 +51,48 @@
 					},
 					{
 						"block": "mo:titanium_ore",
+						"speed": 4,
+						"on_dig": {
+							"event": "dmg"
+						}
+					},
+					{
+						"block": "minecraft:deepslate",
+						"speed": 4,
+						"on_dig": {
+							"event": "dmg"
+						}
+					},
+					{
+						"block": "minecraft:cobbled_deepslate",
+						"speed": 4,
+						"on_dig": {
+							"event": "dmg"
+						}
+					},
+					{
+						"block": "minecraft:chiseled_deepslate",
+						"speed": 4,
+						"on_dig": {
+							"event": "dmg"
+						}
+					},
+					{
+						"block": "minecraft:deepslate_bricks",
+						"speed": 4,
+						"on_dig": {
+							"event": "dmg"
+						}
+					},
+					{
+						"block": "minecraft:cracked_deepslate_bricks",
+						"speed": 4,
+						"on_dig": {
+							"event": "dmg"
+						}
+					},
+					{
+						"block": "minecraft:deepslate_tiles",
 						"speed": 4,
 						"on_dig": {
 							"event": "dmg"
