@@ -5,7 +5,8 @@
 			"identifier": "mo:tool_table"
 		},
 		"tags": [
-			"tool_crafting"
+			"tool_crafting",
+			"crafting_table"
 		],
 		"pattern": [
 			"121",

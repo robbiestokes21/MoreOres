@@ -3,7 +3,7 @@
     "minecraft:item": {
         "description": {
         "identifier": "mo:wood_stone_pickaxe",
-        "category": "equipment",
+        "category": "Equipment",
         "register_to_creative_menu": true
         },
     "components": {

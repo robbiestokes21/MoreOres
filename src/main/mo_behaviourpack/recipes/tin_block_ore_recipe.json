@@ -1,5 +1,5 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.12.0",
   "minecraft:recipe_shapeless": {
     "description": {
       "identifier": "mo:tin_block_ore_recipe"
@@ -8,7 +8,7 @@
       "mo"
     ],
     "tags": [
-      "crafting_table"
+      "tool_crafting"
     ],
     "ingredients": [
       {

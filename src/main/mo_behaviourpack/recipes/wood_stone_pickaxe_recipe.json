@@ -1,8 +1,8 @@
 {
     "format_version": "1.12.0",
     "minecraft:recipe_shaped": {
-        "description": {
-            "identifier": "mo:custom_diamond_pickaxe"
+            "description": {
+            "identifier": "mo:wood_stone_pickaxe_recipe"
         },
         "groups": [
             "mo"
@@ -17,23 +17,23 @@
         ],
         "key": {
             "0": {
-            "item": "mo:black_diamond_ingot"
+                "item": "minecraft:stone"
             },
             "1": {
-            "item": "mo:black_diamond_ingot"
+                "item": "minecraft:stone"
             },
             "2": {
-            "item": "mo:black_diamond_ingot"
+                "item": "minecraft:stone"
             },
             "4": {
-            "item": "minecraft:stick"
+                "item": "mo:wood_stick"
             },
             "7": {
-            "item": "minecraft:stick"
+                "item": "mo:wood_stick"
             }
         },
         "result": {
-            "item": "minecraft:diamond_pickaxe",
+            "item": "mo:wood_stone_pickaxe",
             "count": 1
         }
     }

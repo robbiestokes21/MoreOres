@@ -1,5 +1,5 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.12.0",
   "minecraft:recipe_shaped": {
     "description": {
       "identifier": "mo:tin_hoe_recipe"
@@ -8,7 +8,7 @@
       "mo"
     ],
     "tags": [
-      "crafting_table"
+      "tool_crafting"
     ],
     "pattern": [
       "01",
@@ -17,10 +17,10 @@
     ],
     "key": {
       "0": {
-        "item": "mo:tin_block"
+        "item": "mo:tin_ingot"
       },
       "1": {
-        "item": "mo:tin_block"
+        "item": "mo:tin_ingot"
       },
       "3": {
         "item": "minecraft:stick"
