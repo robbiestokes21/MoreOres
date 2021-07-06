@@ -7,8 +7,11 @@
       "register_to_creative_menu": true
     },
     "components": {
+    "minecraft:display_name":{
+        "value": "Titanium Shards"
+    },
       "minecraft:icon": "titanium_shards",
-      "minecraft:render_offsets": "apple"
+      "minecraft:render_offsets": "miscellaneous"
     }
   }
 }

@@ -13,5 +13,17 @@
         "origin",
         "upstream",
         "main"
+    ],
+    "cSpell.enableFiletypes": [
+        "ignore",
+        "ini",
+        "log",
+        "lua",
+        "makefile",
+        "minecraft-lang",
+        "objective-c",
+        "objective-cpp",
+        "razor",
+        "xml"
     ]
 }

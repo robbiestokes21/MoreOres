@@ -7,8 +7,11 @@
             "register_to_creative_menu": true
         },
         "components": {
+            "minecraft:display_name":{
+                "value": "Black Diamond Gem"
+            },
             "minecraft:icon": "black_diamond_gem",
-            "minecraft:render_offsets": "apple"
+            "minecraft:render_offsets": "miscellaneous"
         }
     }
 }

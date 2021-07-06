@@ -1,5 +1,5 @@
 {
-  "format_version": "1.12",
+  "format_version": "1.12.0",
   "minecraft:item": {
     "description": {
       "identifier": "mo:tin_ingot",
@@ -7,8 +7,11 @@
       "register_to_creative_menu": true
     },
     "components": {
+    "minecraft:display_name":{
+        "value": "Tin Ingot"
+    },
       "minecraft:icon": "tin_ingot",
-      "minecraft:render_offsets": "apple"
+      "minecraft:render_offsets": "miscellaneous"
     }
   }
 }

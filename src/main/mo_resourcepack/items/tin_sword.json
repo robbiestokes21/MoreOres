@@ -7,6 +7,12 @@
       "register_to_creative_menu": true
     },
     "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.sword"
+    },
+    "minecraft:display_name":{
+        "value": "Tin Sword"
+    },
       "minecraft:icon": "tin_sword",
       "minecraft:render_offsets": "tools"
     }

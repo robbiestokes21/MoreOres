@@ -7,6 +7,12 @@
       "register_to_creative_menu": true
     },
     "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.axe"
+    },
+    "minecraft:display_name":{
+        "value": "Titanium Pickaxe"
+    },
       "minecraft:icon": "titanium_axe",
       "minecraft:render_offsets": "tools"
     }

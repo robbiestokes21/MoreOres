@@ -3,9 +3,7 @@
   "minecraft:item": {
     "description": {
       "identifier": "mo:titanium_gem",
-      "register_to_creative_menu": true,
-      "is_experimental": false,
-      "category": "Items"
+      "category": "items"
     },
     "components": {
       "minecraft:hand_equipped": false,

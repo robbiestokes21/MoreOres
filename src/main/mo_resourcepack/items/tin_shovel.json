@@ -3,10 +3,16 @@
   "minecraft:item": {
     "description": {
       "identifier": "mo:tin_shovel",
-      "category": "Items",
+      "category": "Equipment",
       "register_to_creative_menu": true
     },
     "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.shovel"
+    },
+    "minecraft:display_name":{
+        "value": "Tin Shovel"
+    },
       "minecraft:icon": "tin_shovel",
       "minecraft:render_offsets": "tools"
     }

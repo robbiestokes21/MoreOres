@@ -1,22 +1,21 @@
 {
-	"format_version": "1.16.200",
+	"format_version": "1.16.100",
 	"minecraft:item": {
 		"description": {
 			"identifier": "mo:titanium_shovel",
-			"category": "Equipment"
+			"category": "equipment"
 		},
 		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.shovel"
+			},
 			"minecraft:max_stack_size": 1,
 			"minecraft:hand_equipped": true,
 			"minecraft:durability": {
-				"max_durability": 220,
-				"damage_chance": {
-					"min": 60,
-					"max": 100
-				}
+				"max_durability": 220
 			},
 			"minecraft:mining_speed": 1,
-			"minecraft:damage": 2,
+			"minecraft:damage": 3,
 			"minecraft:enchantable": {
 				"value": 10,
 				"slot": "shovel"
@@ -79,9 +78,6 @@
 			},
 			"minecraft:display_name": {
 				"value": "Titanium Shovel"
-			},
-			"minecraft:creative_category": {
-				"parent": "itemGroup.name.shovel"
 			}
 		},
 		"events": {

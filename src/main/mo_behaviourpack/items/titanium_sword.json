@@ -1,19 +1,18 @@
 {
-	"format_version": "1.16.200",
+	"format_version": "1.16.100",
 	"minecraft:item": {
 		"description": {
 			"identifier": "mo:titanium_sword",
-			"category": "Equipment"
+			"category": "equipment"
 		},
 		"components": {
+			"minecraft:creative_category":{
+				"parent": "itemGroup.name.sword"
+			},
 			"minecraft:max_stack_size": 1,
 			"minecraft:hand_equipped": true,
 			"minecraft:durability": {
-				"max_durability": 250,
-				"damage_chance": {
-					"min": 60,
-					"max": 100
-				}
+				"max_durability": 250
 			},
 			"minecraft:mining_speed": 1.5,
 			"minecraft:damage": 5,

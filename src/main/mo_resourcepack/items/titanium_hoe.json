@@ -7,6 +7,12 @@
       "register_to_creative_menu": true
     },
     "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.hoe"
+    },
+    "minecraft:display_name":{
+        "value": "Titanium Hoes"
+    },
       "minecraft:icon": "titanium_hoe",
       "minecraft:render_offsets": "tools"
     }

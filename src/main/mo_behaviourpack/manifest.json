@@ -1,13 +1,13 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Adds more Ore block, weapons, items and recipes.",
-    "name": "More Ore",
-    "uuid": "27c9d518-7cd2-33f8-9160-ec1ed2b5ac89",
+    "description": "Created by: §lEyebull21 | Adds more Ore block, weapons, items and recipes. | [ §4V:1.0.5 ] || [B] || §ghttps://dstokesncstudio.com/mods/minecraft/1.16.0/download",
+    "name": "More Ore || [ §4V:1.0.5 ] || [B]",
+    "uuid": "07a04eba-f740-4118-b4cb-cc705ffbc920",
     "version": [
       1,
       0,
-      2
+      5
     ],
     "min_engine_version": [
       1,
@@ -17,23 +17,23 @@
   },
   "modules": [
     {
-      "description": "Adds more Ore block, weapons, items and recipes.",
+      "description": "Created by: §lEyebull21 | Adds more Ore block, weapons, items and recipes. | [ §4V:1.0.3 ] || [B]",
       "type": "data",
-      "uuid": "97960075-1abf-32b0-b523-fb545df63d04",
+      "uuid": "4c87c8ab-a707-40d0-bb33-9dd0a6457f91",
       "version": [
         1,
         0,
-        2
+        5
       ]
     }
   ],
   "dependencies": [
     {
-      "uuid": "99c45576-fbdc-3c0c-994d-7844f6ec396f",
+      "uuid": "1abe2c76-52da-41df-9a76-f35addea8773",
       "version": [
         1,
         0,
-        2
+        5
       ]
     }
   ],

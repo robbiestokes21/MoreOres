@@ -7,8 +7,11 @@
       "register_to_creative_menu": true
     },
     "components": {
+    "minecraft:display_name":{
+        "value": "Titanium Ingot"
+    },
       "minecraft:icon": "titanium_ingot",
-      "minecraft:render_offsets": "tools"
+      "minecraft:render_offsets": "miscellaneous"
     }
   }
 }

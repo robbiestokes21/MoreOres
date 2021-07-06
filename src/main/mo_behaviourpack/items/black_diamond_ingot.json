@@ -1,22 +1,14 @@
 {
-    "format_version": "1.12.0",
+    "format_version": "1.10.0",
     "minecraft:item": {
         "description": {
             "identifier": "mo:black_diamond_ingot",
-            "register_to_creative_menu": true,
-            "is_experimental": false,
-            "category": "Construction"
+            "category": "construction"
         },
         "components": {
-            "minecraft:max_stack_size": 64,
-            "minecraft:max_damage": 0,
-            "minecraft:icon": {
-                "texture": "black_diamond_ingot"
-            },
-            "minecraft:display_name":{
-                "value": "Black Diamond Ingot"
-            },
-            "minecraft:render_offsets": "ingots"
+            "minecraft:hand_equipped": false,
+            "minecraft:foil": false,
+            "minecraft:stacked_by_data": true
         }
     }
 }

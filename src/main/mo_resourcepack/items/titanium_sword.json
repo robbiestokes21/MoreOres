@@ -7,6 +7,12 @@
       "register_to_creative_menu": true
     },
     "components": {
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.sword"
+    },
+    "minecraft:display_name":{
+        "value": "Titanium Sword"
+    },
       "minecraft:icon": "titanium_sword",
       "minecraft:render_offsets": "tools"
     }

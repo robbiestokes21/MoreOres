@@ -5,7 +5,7 @@
       "identifier": "mo:titanium_shards",
       "register_to_creative_menu": true,
       "is_experimental": false,
-      "category": "Items"
+      "category": "items"
     },
     "components": {
       "minecraft:max_stack_size": 36,
@@ -15,7 +15,10 @@
 			},
 			"minecraft:icon": {
 				"texture": "titanium_shards"
-			}
+			},
+      "minecraft:hand_equipped": false,
+      "minecraft:foil": false,
+      "minecraft:stacked_by_data": true
     }
   }
 }
